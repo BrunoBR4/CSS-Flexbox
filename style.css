@@ -192,6 +192,12 @@ img {
 	margin: 20px 10px;
 }
 
+.formacao-titulo h1 {
+	font-size: 2.39em;
+	color: #000000;
+	margin-bottom: 20px;
+}
+
 .formacao-titulo h2 {
 	font-size: 2.25em;
 	color: #000000;
